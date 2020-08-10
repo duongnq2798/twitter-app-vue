@@ -3,3 +3,4 @@ module.exports = {
     ? '/twitter-app-vue'
     : '/'
 }
+
